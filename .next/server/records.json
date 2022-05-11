@@ -1,0 +1,82 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"next/link\"": 1,
+      "external \"next/head\"": 2,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!components/MyLayout.js 042bd0bde0c6f6c153144e9ab801f058": 3,
+      "external \"react-bootstrap/Image\"": 4,
+      "multi ./pages/about.js": 5,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/about.js": 6,
+      "external \"@material-ui/core/colors\"": 7,
+      "multi ./pages/contact.js": 8,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/contact.js": 9,
+      "multi ./pages/index.js": 10,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js": 11,
+      "multi ./pages/projects.js": 12,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/projects.js": 13,
+      "multi node_modules/next/dist/pages/_app.js": 14,
+      "node_modules/next/dist/pages/_app.js": 15,
+      "external \"next/app\"": 16,
+      "multi node_modules/next/dist/pages/_error.js": 17,
+      "node_modules/next/dist/pages/_error.js": 18,
+      "external \"next/error\"": 19,
+      "multi node_modules/next/dist/pages/_document.js": 20,
+      "node_modules/next/dist/pages/_document.js": 21,
+      "external \"next/document\"": 22
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static\\oDSpTGlMTnL7NhbdRKwcK\\pages\\about.js": 0,
+      "static\\oDSpTGlMTnL7NhbdRKwcK\\pages\\contact.js": 1,
+      "static\\oDSpTGlMTnL7NhbdRKwcK\\pages\\index.js": 2,
+      "static\\oDSpTGlMTnL7NhbdRKwcK\\pages\\projects.js": 3,
+      "static\\oDSpTGlMTnL7NhbdRKwcK\\pages\\_app.js": 4,
+      "static\\oDSpTGlMTnL7NhbdRKwcK\\pages\\_error.js": 5,
+      "static\\oDSpTGlMTnL7NhbdRKwcK\\pages\\_document.js": 6,
+      "static\\RtQJy4z4Ij~c_OT~AReAQ\\pages\\about.js": 7,
+      "static\\RtQJy4z4Ij~c_OT~AReAQ\\pages\\contact.js": 8,
+      "static\\RtQJy4z4Ij~c_OT~AReAQ\\pages\\index.js": 9,
+      "static\\RtQJy4z4Ij~c_OT~AReAQ\\pages\\projects.js": 10,
+      "static\\RtQJy4z4Ij~c_OT~AReAQ\\pages\\_app.js": 11,
+      "static\\RtQJy4z4Ij~c_OT~AReAQ\\pages\\_error.js": 12,
+      "static\\RtQJy4z4Ij~c_OT~AReAQ\\pages\\_document.js": 13
+    },
+    "bySource": {},
+    "usedIds": [
+      10,
+      11,
+      12,
+      13,
+      7,
+      8,
+      9
+    ]
+  }
+}
